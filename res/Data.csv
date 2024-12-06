@@ -1,0 +1,7 @@
+villeA;villeB;modalitéTransport;prix (double);co2 (double);temps (double)
+Lille;Orchies;TRAIN;60;1.7;80
+Orchies;4 Cantons;TRAIN;22;2.4;40
+Lille;IUT;TRAIN;42;1.4;50
+Orchies;IUT;TRAIN;14;1.4;60
+IUT;4 Cantons;BUS;11;1.2;22
+IUT;4 Cantons;TRAIN;65;1.2;90

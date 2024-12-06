@@ -1,0 +1,5 @@
+﻿ville;modalitéTransport1;modalitéTransport2;prix (double);co2 (double);temps (double)
+Lille;TRAIN;BUS;10;0;0
+Orchies;BUS;TRAIN;2;0;0
+4 Cantons;BUS;TRAIN;5;0;0
+IUT;TRAIN;BUS;10;0;0
